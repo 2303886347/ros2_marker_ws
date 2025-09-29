@@ -1,0 +1,5 @@
+[console_scripts]
+marker_publisher = marker_pubsub.marker_publisher:main
+service_marker_publisher = marker_pubsub.service_marker_publisher:main
+tf_broadcaster = marker_pubsub.tf_broadcaster:main
+

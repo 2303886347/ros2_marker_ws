@@ -1,0 +1,21 @@
+[0.589s] Invoking command in '/home/ubuntu2204/ros2_marker_ws/src/marker_pubsub': PYTHONPATH=/home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu2204/ros2_marker_ws/install/marker_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/marker_pubsub build --build-base /home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/build install --record /home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/install.log --single-version-externally-managed install_data
+[0.801s] running egg_info
+[0.802s] writing ../../build/marker_pubsub/marker_pubsub.egg-info/PKG-INFO
+[0.802s] writing dependency_links to ../../build/marker_pubsub/marker_pubsub.egg-info/dependency_links.txt
+[0.802s] writing entry points to ../../build/marker_pubsub/marker_pubsub.egg-info/entry_points.txt
+[0.802s] writing requirements to ../../build/marker_pubsub/marker_pubsub.egg-info/requires.txt
+[0.803s] writing top-level names to ../../build/marker_pubsub/marker_pubsub.egg-info/top_level.txt
+[0.804s] reading manifest file '../../build/marker_pubsub/marker_pubsub.egg-info/SOURCES.txt'
+[0.804s] writing manifest file '../../build/marker_pubsub/marker_pubsub.egg-info/SOURCES.txt'
+[0.804s] running build
+[0.804s] running build_py
+[0.806s] running install
+[0.806s] running install_lib
+[0.807s] running install_data
+[0.807s] running install_egg_info
+[0.811s] removing '/home/ubuntu2204/ros2_marker_ws/install/marker_pubsub/lib/python3.10/site-packages/marker_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.811s] Copying ../../build/marker_pubsub/marker_pubsub.egg-info to /home/ubuntu2204/ros2_marker_ws/install/marker_pubsub/lib/python3.10/site-packages/marker_pubsub-0.0.0-py3.10.egg-info
+[0.811s] running install_scripts
+[0.828s] Installing marker_publisher script to /home/ubuntu2204/ros2_marker_ws/install/marker_pubsub/lib/marker_pubsub
+[0.829s] writing list of installed files to '/home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/install.log'
+[0.861s] Invoked command in '/home/ubuntu2204/ros2_marker_ws/src/marker_pubsub' returned '0': PYTHONPATH=/home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu2204/ros2_marker_ws/install/marker_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/marker_pubsub build --build-base /home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/build install --record /home/ubuntu2204/ros2_marker_ws/build/marker_pubsub/install.log --single-version-externally-managed install_data
